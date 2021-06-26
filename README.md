@@ -20,3 +20,8 @@
   - In the third attempt, I left the changes from the previous two attempts. I decreased the number of buckest for the Application feature. I also changed the function in the hidden layers from relu to tanh.
 
 ## Summary
+- The results from Deliverable 2 can be found [here](https://github.com/azarowj/Neural_Network_Charity_Analysis/blob/main/Deliverable2.png)
+- The results from the first optimization can be found [here](https://github.com/azarowj/Neural_Network_Charity_Analysis/blob/main/Optimization1.png)
+- The results from the second optimization can be found [here](https://github.com/azarowj/Neural_Network_Charity_Analysis/blob/main/Optimization2.png)
+- The results from the third optimization can be found [here](https://github.com/azarowj/Neural_Network_Charity_Analysis/blob/main/Optimization3.png)
+- Overall, each of the four different neural network models had an accuracy of approximately 73%. I don't believe that using neural networks is the best model for this particular dataset. I believe that we would see better results if we used SVM. SVM accurately identifies a binary output but also has the ability to make exceptions for outliers.
